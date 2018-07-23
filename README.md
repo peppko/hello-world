@@ -1,4 +1,4 @@
 # hello-world
-exploring the GIT HUB
+exploring the GitHub
 
 My role here is to understand the possibilities that GIT HUB offers. 
